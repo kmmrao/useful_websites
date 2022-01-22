@@ -1,0 +1,97 @@
+1.	How to read and plot NetCDF MERRA-2 data in Python - https://disc.gsfc.nasa.gov/information/howto?title=How%20to%20read%20and%20plot%20NetCDF%20MERRA-2%20data%20in%20Python 
+2.	How to read and visualize nasa hdf5 products – http://www.hdfeos.org/software/h5py.php 
+3.	PYHDF - https://hdfeos.org/software/pyhdf.php 
+4.	Chapter 4. Visualization with Matplotlib- https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html 
+5.	Earth ASDC Browse projects-  https://asdc.larc.nasa.gov/browse-projects
+6.	Comprehensive examples-  http://hdfeos.org/zoo/index_openLaRC_Examples.php#CALIPSO 
+7.	The Python Graph Gallery- https://www.python-graph-gallery.com/ 
+8.	Top 50 matplotlib Visualizations – The Master Plots (with full python code)- https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/#24.-Joy-Plot 
+9.	How to Change the Position of Legend in Seaborn- https://cmdlinetips.com/ 
+10.	PO-HSIUNG LIN   Professor: http://www.as.ntu.edu.tw/index.php/stafflist-6/faculty/item/188-polin.html 
+11.	Joyplots: https://github.com/maxwellbade/joyplots/blob/master/README.md 
+12.	scikit-learn User Guide: https://scikit-learn.org/stable/user_guide.html 
+13.	List all fonts available in matplotlib plus samples: https://jonathansoma.com/lede/data-studio/matplotlib/list-all-fonts-available-in-matplotlib-plus-samples/ 
+14.	IDLSave - a Python module to read IDL 'save' files: http://astrofrog.github.io/idlsave/ 
+15.	10 Python Data Visualization Libraries for Any Field: https://mode.com/blog/python-data-visualization-libraries/#Bokeh 
+16.	How to read and plot HDF5 file in python ? Youtube: https://www.youtube.com/watch?v=Jz9srOETL1M 
+17.	PYTHON VISUALIZATION LIBRARIES YOU SHOULD KNOW IN 2020 AND HOW TO USE THEM: https://blog.ine.com/python-visualization-libraries-you-should-know-in-2020-and-how-to-use-them 
+18.	How to Plot netCDF data onto a Map using Python (with Matplotlib Basemap toolkit) (Part 4): (Youtube)
+19.	Iris & Cartopy: Python packages for Atmospheric and Oceanographic science; SciPy 2013 Presentation: https://www.youtube.com/watch?v=MW9wmGsscrs&list=RDCMUCkhm72fuzkS9fYGlGpEmj7A&start_radio=1&t=180s
+20.	Iris 3.2.dev0: https://scitools-iris.readthedocs.io/en/latest/
+21.	Plotting spatio-temporal data with Python: https://annefou.github.io/metos_python/04-plotting/ 
+22.	Matplotlib in Python: Data Visualization Plots & how to use it(mygreatlearning): https://www.mygreatlearning.com/blog/matplotlib-tutorial-for-data-visualisation/ 
+23.	COVID-19 Impacts - Nitrogen Dioxide Emissions Massively Drop over China!: https://www.youtube.com/watch?v=mqpArrCvw9c&t=21s 
+24.	This example code illustrates how to access and visualize LaRC CALIPSO Lidar ; Level 2 Vertical Feature Mask Version 3.02 HDF4 file in IDL: https://hdfeos.org/zoo/LaRC/CAL_LID_L2_VFM-ValStage1-V3-02.2011-12-31T23-18-11ZD.hdf.idl 
+25.	Reference and Data Products Handbooks: https://eospso.gsfc.nasa.gov/publications/56
+26.	USA DATA CATALOG: https://catalog.data.gov/dataset 
+27.	Data Management System Data Products Catalog: https://www-calipso.larc.nasa.gov/products/CALIPSO_DPC_Rev4x40.pdf
+28.	Data for Climate & Weather Research: https://rda.ucar.edu/
+29.	UCAR unidata: https://www.unidata.ucar.edu/
+30.	LEAPS: https://leapsapp.analyttica.com/home
+31.	Make your Data Talk!(towardsdatascience): https://towardsdatascience.com/make-your-data-talk-13072f84eeac
+32.	Sickit-learn Machine Learning in Python: https://scikit-learn.org/stable/
+33.	Metpy Four Panel Map: https://unidata.github.io/MetPy/latest/examples/Four_Panel_Map.html
+34.	Cartopy map gridlines and tick labels: https://scitools.org.uk/cartopy/docs/v0.13/matplotlib/gridliner.html
+35.	Align subplot with colorbar: https://stackoverflow.com/questions/44682146/align-subplot-with-colorbar
+36.	Fuundamentals of Remote sensing: https://rise.articulate.com/share/Cs2pB_Kx2Mdnuv4zyeakUAPMhEEdOond#/lessons/rIc-a44K62-8kfdCAnNfS1QU56nFTqZl
+37.	ARSET - Fundamentals of Remote Sensing: https://appliedsciences.nasa.gov/join-mission/training/english/arset-fundamentals-remote-sensing
+38.	LEARN TO USE EARTH OBSERVATIONS: https://appliedsciences.nasa.gov/join-mission/training
+39.	MetJobs: https://www.lists.rdg.ac.uk/archives/met-jobs/
+40.	Riccardo Biondi: http://biondiriccardo.it/contacts/
+41.	All the datasets of the Government of Telangana: https://data.telangana.gov.in/about-open-data-telangana
+42.	32 Machine Learning Algorithms Explained with Python: https://amankharwal.medium.com/32-machine-learning-algorithms-explained-with-python-13c0845ef884
+43.	200 Machine Learning Projects Solved and Explained with Python: https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
+44.	List all fonts available in matplotlib plus samples: https://jonathansoma.com/lede/data-studio/matplotlib/list-all-fonts-available-in-matplotlib-plus-samples/
+45.	Future Leaning Courses: https://www.futurelearn.com/
+46.	CS231n: Convolutional Neural Networks for Visual Recognition. Stanford - Spring 2021: http://cs231n.stanford.edu/index.html
+47.	ARDUINO LESSONS: https://toptechboy.com/arduino-lessons/
+48.	Python strftime cheatsheet: https://strftime.org/
+49.	“fetch row where column is equal to a value pandas”: https://www.codegrepper.com/code-examples/python/fetch+row+where+column+is+equal+to+a+value+pandas
+
+50.	Unable to allocate array with shape and data type: https://stackoverflow.com/questions/57507832/unable-to-allocate-array-with-shape-and-data-type 
+51.	Cluster of Excellence – Machine Learning for Science: https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/ml-in-climate-science/
+52.	GEOS-Chem vertical grids: http://wiki.seas.harvard.edu/geos-chem/index.php/GEOS-Chem_vertical_grids
+53.	MERRA-2: http://wiki.seas.harvard.edu/geos-chem/index.php/MERRA-2
+54.	Satellite Remote Sensing and GIS Applications in Agricultural Meteorology(Textbook pdf): https://www.preventionweb.net/files/1682_9970.pdf#page=28
+55.	Basemap plus 3d graph: https://stackoverflow.com/questions/52350480/basemap-plus-3d-graph
+56.	How do you plot vertical 3D planes?: https://stackoverflow.com/questions/61663470/how-do-you-plot-vertical-3d-planes
+57.	meteoinfo/community: https://gitter.im/meteoinfo/community
+58.	Examination Management Services: https://testservices.nic.in/index.html
+59.	EC from Telengana: https://registration.telangana.gov.in/ec.htm 
+60.	Matplotlib AxesGrid toolkit: https://matplotlib.org/stable/tutorials/toolkits/axes_grid.html
+61.	Inset plots in Matplotlib: https://scipython.com/blog/inset-plots-in-matplotlib/
+62.	Free books pdf: https://kupdf.net/
+63.	Quntum Computing: https://github.com/BoltzmannEntropy/polarization 
+
+
+
+64.	Computional Thinking: https://www.youtube.com/watch?v=sk8PiORnBWI&t=7s
+65.	English: https://www.youtube.com/watch?v=hImZsXxKTcE&t=3s
+66.	Statistics for data science 1: https://www.youtube.com/watch?v=8p9ZcNwqG58&t=3s
+67.	Mathematics for Data Science 1: https://www.youtube.com/watch?v=WEC6jPWvoj8&t=1s
+
+
+
+68.	3D Plotting good: https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.16-3D-Surface-Plots/#3d-surface-plots-with-2d-contour-plot-projections
+69.	IDL in Python: http://fiss.snu.ac.kr/fisspy/cheat/
+70.	GIOVANNI Data: https://giovanni.gsfc.nasa.gov/giovanni/ 
+71.	CALIPSO Data visualization master’s thesis: https://ccplot.org/pub/doc/pdf/Visualising_Data_from_CloudSat_and_CALIPSO_Satellites.pdf 
+72.	
+
+
+
+
+•	http://www.earthworks-jobs.com
+•	http://climlist.wku.edu
+•	http://www.lists.rdg.ac.uk/mailman/listinfo/met-jobs
+•	http://ec.europa.eu/euraxess/index.cfm/jobs/index
+•	http://www.egu.eu/jobs
+•	http://www.mathjobs.org
+•	http://www.cfd-online.com
+•	http://www.findaphd.com/about/about-findaphd.aspx
+•	https://www2.physics.ox.ac.uk/research/atmospheric-oceanic-and-planetary-physics/careers-information
+•	http://tinyurl.com/jobs-ACA 
+Chaganti Koteshwaar Rao: http://www.pravachanam.com/pravachanambrowselist2/16/all/20?field_pm_language_target_id=20
+   https://www.srichaganti.org/index.html 
+
+
